@@ -1,0 +1,24 @@
+{
+  "name": "my-first-cli-project-with-node",
+  "version": "1.0.0",
+  "description": "commands:\r     node index - for start game\r     node index.js -f my_log.txt - for saving results in chosen file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPaul007/my-first-CLI-project-with-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPaul007/my-first-CLI-project-with-Node.js/issues"
+  },
+  "homepage": "https://github.com/MrPaul007/my-first-CLI-project-with-Node.js#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^9.4.0"
+  }
+}
